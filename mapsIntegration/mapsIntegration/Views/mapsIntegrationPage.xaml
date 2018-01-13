@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:mapsIntegration"
+    xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+    x:Class="mapsIntegration.Views.mapsIntegrationPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="30">
+        <maps:Map
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand"
+            IsShowingUser="true"
+            MapType="{Binding Type}"
+            x:Name="MyMap">
+        </maps:Map>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Satélite" Command="{Binding SateliteCommand}" />
+            <Button Text="Rua"  Command="{Binding RuaCommand}" />
+            <Button Text="Híbrido" Command="{Binding HibridoCommand}" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

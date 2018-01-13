@@ -1,0 +1,17 @@
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/mapsIntegration.dll
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Core.dll
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Maps.dll
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Platform.dll
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Core.pdb
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Core.dll.mdb
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Core.xml
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Xaml.pdb
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Xaml.dll.mdb
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/bin/Release/Xamarin.Forms.Maps.xml
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/obj/Release/mapsIntegration.csproj.CoreCompileInputs.cache
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/obj/Release/mapsIntegration.App.xaml.g.cs
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/obj/Release/mapsIntegration.dll
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/obj/Release/mapsIntegration.csprojResolveAssemblyReference.cache
+/Users/matheusnno/Projects/mapsIntegration/mapsIntegration/obj/Release/mapsIntegration.Views.mapsIntegrationPage.xaml.g.cs
